@@ -2,6 +2,7 @@
 
 <a href="https://docs.google.com/document/d/1uSEUkTx7TwjhC9__4GRph_KiIIABtbI6sEMNmyF-NJw/edit?usp=sharing">risk assessment</a>
 
-#<a href="https://docs.google.com/document/d/1bZVPHokvEOHiyHhP0aKFZpqKdLopFgCRzoTackHuUzQ/edit?usp=sharing">Architecture</a>
+<a href="https://docs.google.com/document/d/1bZVPHokvEOHiyHhP0aKFZpqKdLopFgCRzoTackHuUzQ/edit?usp=sharing">Architecture</a>
+
 <a href="https://docs.google.com/document/d/1oThx34QZ7k7ykyu3dpDQm_c8Oz8JjbUf8P1NA73_sao/edit?usp=sharing">Implementation  </a>
  (insert rest later)
