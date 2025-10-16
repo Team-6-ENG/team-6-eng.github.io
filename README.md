@@ -10,7 +10,6 @@
 
 <a href="https://docs.google.com/document/d/1J2HJH6q8h4ShFtYeZ115hOiWoiFYaPxJlq8AicnCf-A/edit?usp=sharing">requirements  </a>
 
-#unsure on version control repository link
-
 <a href="https://github.com/Team-6-ENG/Escape_Uni"> Version control repository  </a>
+
 
