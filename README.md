@@ -1,3 +1,3 @@
 # team-6-eng.github.io
-<a href="test.md">Page 2</a>
+<a href="test.md"> Links to Documents</a>
 
